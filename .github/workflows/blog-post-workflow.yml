@@ -2,6 +2,7 @@ name: 文章同步工作流
 on:
   schedule:
     - cron: "0 * * * *"
+  workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
