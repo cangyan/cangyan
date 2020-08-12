@@ -1,7 +1,6 @@
-name: Latest blog post workflow
+name: 文章同步工作流
 on:
   schedule:
-    # Runs every hour
     - cron: "0 * * * *"
 
 jobs:
