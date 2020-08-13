@@ -1,4 +1,4 @@
-# 最新文章
+# :page_facing_up: 最新文章
 
 <!-- BLOG-POST-LIST:START -->
 - [灰姑娘(GO版)](https://www.huuinn.com/archives/628)
@@ -8,7 +8,7 @@
 - [php生成总值固定随机数字数组](https://www.huuinn.com/archives/613)
 <!-- BLOG-POST-LIST:END -->
 
-# 统计数据
+# :construction_worker: 码力统计
 
 <a href="">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=cangyan&orgs=huuinn&count_private=true&theme=tokyonight&show_icons=true&hide_title=true" />
